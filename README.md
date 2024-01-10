@@ -5,7 +5,7 @@ Watch Demo on YouTube : <<>>
 
 HIGH Level FLOW
 
-<img width="801" alt="Screenshot 2024-01-09 at 7 25 21 PM" src="https://github.com/gaganpreet-parmar/Chat-Speak/assets/156009742/f4cf903f-3384-4fdd-93f6-2bdd25aa9039">
+<img width="771" alt="Screenshot 2024-01-09 at 8 18 21 PM" src="https://github.com/gaganpreet-parmar/Chat-Speak/assets/156009742/58a388ef-a7e2-45cb-997b-49aa04257915">
 
 
 
