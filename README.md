@@ -8,6 +8,13 @@ Assistant talk bot using Python and Google Web Speech API, offering versatile in
     
   </p>
 
+  <p align="left">
+    <p>
+       Microservices Architecture Artcile link <a href="https://medium.com/@gaganpreetsingh.parmar/crafting-intelligent-conversations-designing-hr-chatbot-with-llm-langchain-and-microservices-fd295f493ed4" target="_blank">Crafting Intelligent Conversations: Designing HR ChatBot with LLM, Langchain and Microservices</a>
+    </p>
+    
+  </p>
+
 ## HIGH Level FLOW
 
 <img width="771" alt="Screenshot 2024-01-09 at 8 18 21 PM" src="https://github.com/gaganpreet-parmar/Chat-Speak/assets/156009742/58a388ef-a7e2-45cb-997b-49aa04257915">
