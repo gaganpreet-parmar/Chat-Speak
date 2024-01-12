@@ -1,7 +1,12 @@
 # Chat-Speak
 Assistant talk bot using Python and Google Web Speech API, offering versatile integration with downstream applications. Facilitates two-way communication by sending and receiving text messages, while the GTTS feature enables the bot to articulate responses, enhancing user interaction across various channels.
 
-Watch Demo on YouTube : <<>>
+ <p align="left">
+    <p>
+      Watch Tutorial on YouTube <a href="https://youtu.be/gkQq2AoGGLY" target="_blank">Building HR ChatBot using Python, OpenAI, Weaviate, Hugging Face and Langchain</a>
+    </p>
+    
+  </p>
 
 ## HIGH Level FLOW
 
